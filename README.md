@@ -1,4 +1,4 @@
-# CPT-project-20-GigaNet-1000-Large-Scale-Network-Simulation-with-993-End-Devices-PC8-PC1000-
+# Cisco-Packet-Tracer-project-20-GigaNet-1000-Large-Scale-Network-Simulation-with-993-End-Devices-PC8-PC1000-
 I’m excited to share my latest networking project – GigaNet-1000 – a comprehensive Cisco Packet Tracer simulation that connects 993 end devices (PC8 through PC1000) in a scalable, enterprise‑grade network.It also explores performance considerations when dealing with hundreds of access‑layer switches and end hosts.
 
 ![image alt](https://github.com/Sameera54321/CPT-project-20-GigaNet-1000-Large-Scale-Network-Simulation-with-993-End-Devices-PC8-PC1000-/blob/main/1.png?raw=true)
